@@ -1,4 +1,3 @@
-# Toxic.Ware-
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 local RequiredData = { -- dont mess with the setting spls
     ["WalkSpeed"] = 16,
